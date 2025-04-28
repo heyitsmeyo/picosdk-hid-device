@@ -54,6 +54,13 @@ To flash the code into the pico , we use the following command ( Make sure the p
 
 
 
+# if you like the project , you can donate us for more : 
+
+    https://ko-fi.com/heyitsmeyo
+
+
+
+
 
 
 
