@@ -60,6 +60,10 @@ To flash the code into the pico , we use the following command ( Make sure the p
 
 
 
+### Coming Soon
+- Add support for Windows commands.
+
+
 
 
 
